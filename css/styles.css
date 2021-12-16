@@ -1,0 +1,320 @@
+.top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 60%;
+}
+
+.middle {
+  position: absolute;
+  background-color: white;
+  top: 40%;
+  bottom: -300px;
+  left: 0;
+  right: 0;
+}
+
+.bottom {
+  background-color: black;
+  height: 250px;
+  right: 0;
+  left: 0;
+  bottom: -859px;
+  position: absolute;
+  color: white;
+}
+
+.goRaiders {
+  position: absolute;
+  background-color: #FF0000;
+  top: 5%;
+  font-size: 30px;
+  right: 5%;
+  left: 5%;
+}
+
+.banner {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  top: 20%;
+  height: 60%;
+}
+
+.navbarc {
+  background-color: #616161;
+  right: 0;
+  left: 0;
+  top: 32%;
+  height: 10%;
+  position: absolute;
+}
+
+.nav-btnc {
+  background-color: #616161;
+  color: white;
+  height: 30px;
+  border: 0;
+  background: none;
+  box-shadow: none;
+  border-radius: 0px;
+}
+
+.nav-btnc:hover {
+  background-color: black;
+}
+
+.center-image {
+  left: 40px;
+  position: absolute;
+  right: 40px;
+}
+
+.turkey-break {
+  position: absolute;
+  background-color: #FFFF00;
+  right: 10px;
+  left: 10px;
+  height: 45px;
+  bottom: 350px;
+  font-size: 30px;
+}
+
+.quicklinks {
+  position: absolute;
+  right: 20px;
+  left: 70%;
+  bottom: -175px;
+}
+
+.quick-header {
+  font-size: 30px;
+}
+
+.quicklink-button {
+  background-color: #484848;
+  width: 100%;
+  text-align: left;
+  color: white;
+  height: 40px;
+}
+
+.quicklink-button:hover {
+  -webkit-animation: pulse 1s;
+  background-color: red;
+}
+
+.quicklink-btn-areas {
+  padding-bottom: 10px;
+}
+
+.news {
+  position: absolute;
+  left: 30%;
+  right: 30%;
+  top: 490px;
+  font-size: 30px;
+}
+
+.fb-tw {
+  position: absolute;
+  left: 2%;
+  right: 70%;
+  top: 490px;
+  font-size: 30px;
+}
+
+.no-link {
+  text-decoration: none;
+  color: white;
+}
+
+.no-link:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.twtr {
+  color: #827D7E;
+  text-decoration: none;
+}
+
+.twtr:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.sep-dot {
+  font-size: .45rem;
+}
+
+.search {
+  background-color: red;
+}
+
+.newsletter {
+  font-size: 105%;
+}
+
+.dropdown-item {
+  color: white;
+  background-color: #616161;
+}
+
+.dropdown-itemc:hover {
+  color: white;
+  background-color: #000000;
+}
+
+.black-hover:hover {
+  background-color: black;
+}
+
+a {
+  text-align: left;
+}
+
+table {
+  left: 0;
+  right: 0
+}
+
+.about-size {
+  font-size: 25px;
+}
+
+.distred-links {
+  position: absolute;
+  left: 4%;
+  width: 22%;
+  top: 429px;
+  bottom: 30px;
+}
+
+.distred-links-2 {
+  position: absolute;
+  left: 4%;
+  width: 22%;
+  top: 810px;
+  bottom: -150px;
+}
+
+.no-link-s {
+  text-decoration: none;
+  color: black;
+}
+
+.no-link-s:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.distred-links-row {
+  height: 30px;
+  width: 100%;
+  background-color: #C61F27;
+  border-bottom-color: white;
+  border-bottom-style: solid;
+}
+
+.distred-links-row:hover {
+  background-color: black;
+  height: 30px;
+}
+
+.districtAbout-text {
+  right: 5%;
+  position: absolute;
+  left: 27%;
+  top: 429px;
+  bottom: -300px;
+}
+
+.districtemployment-text {
+  right: 5%;
+  position: absolute;
+  left: 27%;
+  top: 429px;
+  bottom: -300px;
+}
+
+.bottom-long {
+  background-color: black;
+  height: 250px;
+  right: 0;
+  left: 0;
+  bottom: -1530px;
+  position: absolute;
+  color: white;
+}
+
+.bunder {
+  font-weight: bold;
+  text-decoration: underline;
+  color: black;
+}
+
+.bunder:hover {
+  text-decoration: underline;
+  color: black;
+  font-weight: bold;
+}
+
+.board-header {
+  font-weight: 400;
+  font-size: 25px;
+  color: black;
+  text-decoration: none;
+}
+
+.board-header:hover {
+  font-weight: 400;
+  font-size: 25px;
+  color: black;
+  text-decoration: none;
+}
+
+.bottom-long-2 {
+  background-color: black;
+  height: 250px;
+  right: 0;
+  left: 0;
+  bottom: -975px;
+  position: absolute;
+  color: white;
+}
+
+.read {
+  background-color: #616161;
+  height: 25px;
+  color: white;
+}
+
+.read:hover {
+  background-color: #484848;
+  height: 25px;
+  color: white;
+}
+
+.super {
+  font-weight: 600;
+  color: black;
+  text-decoration: none;
+}
+
+.super:hover {
+  font-weight: 600;
+  color: black;
+  text-decoration: none;
+}
+
+.bottom-long-3 {
+  background-color: black;
+  height: 250px;
+  right: 0;
+  left: 0;
+  bottom: -1200px;
+  position: absolute;
+  color: white;
+}
